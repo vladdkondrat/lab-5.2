@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1B33C8-31FF-44BF-96AC-05C0E6EA4BDA}|..\\UnitTest3\\UnitTest3.vcxproj|C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEC898B-4702-485A-8E8E-511E5A1DFF48}|lab 5.2.vcxproj|C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 5.2\\lab 5.02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FEC898B-4702-485A-8E8E-511E5A1DFF48}|lab 5.2.vcxproj|solutionrelative:lab 5.02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest3.cpp",
+              "DocumentMoniker": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest3\\UnitTest3.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest3\\UnitTest3.cpp",
+              "ToolTip": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest3\\UnitTest3.cpp",
+              "RelativeToolTip": "..\\UnitTest3\\UnitTest3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T15:12:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab 5.02.cpp",
+              "DocumentMoniker": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 5.2\\lab 5.02.cpp",
+              "RelativeDocumentMoniker": "lab 5.02.cpp",
+              "ToolTip": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 5.2\\lab 5.02.cpp",
+              "RelativeToolTip": "lab 5.02.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T15:11:14.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
